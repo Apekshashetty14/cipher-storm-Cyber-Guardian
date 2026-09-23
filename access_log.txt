@@ -1,0 +1,24 @@
+2026-09-23 10:55:36 - Master password created
+2026-09-23 10:57:48 - Encrypted file: C:/lockbox/secret.txt
+2026-09-23 10:59:14 - Decrypted successfully: C:/lockbox/secret.txt.locked
+2026-09-23 11:02:09 - Decrypted successfully: C:/lockbox/secret.txt.locked
+2026-09-23 11:02:29 - Decrypted successfully: C:/lockbox/secret.txt.locked
+2026-09-23 11:06:54 - Decrypted successfully: C:/lockbox/secret.txt.locked
+2026-09-23 11:12:07 - Master password created
+2026-09-23 11:12:14 - Decrypt FAILED (wrong key) on: C:/lockbox/secret.txt.locked
+2026-09-23 11:26:19 - Login successful
+2026-09-23 11:26:51 - Decrypt FAILED (wrong key/corrupted) on: C:/lockbox/secret.txt.locked
+2026-09-23 12:05:24 - Login FAILED - wrong password
+2026-09-23 12:05:34 - Login FAILED - wrong password
+2026-09-23 12:05:36 - Login FAILED - wrong password
+2026-09-23 12:05:44 - Login FAILED - wrong password
+2026-09-23 12:06:40 - Login FAILED - wrong password
+2026-09-23 12:06:49 - Login successful
+2026-09-23 12:16:16 - Login FAILED - wrong password(attempt1)
+2026-09-23 12:16:23 - Login FAILED - wrong password(attempt2)
+2026-09-23 12:16:29 - Login FAILED - wrong password(attempt3)
+2026-09-23 12:16:34 - Login FAILED - wrong password(attempt4)
+2026-09-23 12:17:05 - Login FAILED - wrong password(attempt5)
+2026-09-23 12:21:09 - Login FAILED - wrong password(attempt1)
+2026-09-23 12:21:17 - Login FAILED - wrong password(attempt2)
+2026-09-23 12:21:24 - Login FAILED - wrong password(attempt3)
